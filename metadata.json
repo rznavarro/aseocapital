@@ -1,0 +1,6 @@
+{
+  "name": "Aseo Industrial Capital - Lavado de Alfombras Ñuñoa",
+  "description": "Landing page editorial para Aseo Industrial Capital en Ñuñoa: lavado de alfombras muro a muro, aseo profundo, pintura y gasfitería.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
